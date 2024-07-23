@@ -3,7 +3,7 @@
 ## [Data Cleaning](https://github.com/WillBao33/Data-Analysis-on-Tech-Layoffs/blob/main/Data_cleaning.sql)
 * Remove duplpicates
 * Standardize the data
-* Deal with NULL or blank values
+* Deal with NULL and blank values
 * Remove extra columns
 ## [Exploratory Data Analysis](https://github.com/WillBao33/Data-Analysis-on-Tech-Layoffs/blob/main/Exploratory_Data_Analysis.sql)
   
